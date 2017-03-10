@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "691104665056",
+    "firebase_url": "https://fraispro-d7ec3.firebaseio.com",
+    "project_id": "fraispro-d7ec3",
+    "storage_bucket": "fraispro-d7ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691104665056:android:eaf511fecaa6bd52",
+        "android_client_info": {
+          "package_name": "fr.opendev.fraispro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691104665056-nh8b3ovb3tq59bheen8nhejueifd5lhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.opendev.fraispro",
+            "certificate_hash": "c0e3fb99cdea8b80cea5f1f5fded8150839948f1"
+          }
+        },
+        {
+          "client_id": "691104665056-6n07t2bp5rkfe6cvo6n6gqocmfnk2um6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0ESPXGLLCsCyXBXe-zDfFFz9ytS2Ago"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691104665056-6n07t2bp5rkfe6cvo6n6gqocmfnk2um6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
