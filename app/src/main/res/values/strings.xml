@@ -21,11 +21,20 @@
     <string name="btn_forgot_password">Mot de passe oublié?</string>
     <string name="btn_reset_password">Reset Mot de passe</string>
     <string name="btn_back"><![CDATA[<< Back]]></string>
-    <string name="hint_new_email">New Email</string>
-    <string name="btn_change">Change</string>
+    <string name="hint_new_email">Nouvelle adresse</string>
+    <string name="btn_change">Changer</string>
     <string name="btn_send">Envoyer</string>
     <string name="btn_remove">Supprimer</string>
     <string name="btn_sign_out">Deconnexion</string>
     <string name="lbl_forgot_password">Mot de passe oublié?</string>
-    <string name="forgot_password_msg">Saisir votre identifiant et nous renverrons la procédure de changement de mot de passe.</string>
+    <string name="forgot_password_msg">Saisissez votre identifiant et nous enverrons la procédure de changement de mot de passe.</string>
+
+    <string name="btm_menu_frais">Frais</string>
+    <string name="btm_menu_settings">Réglages</string>
+
+
+    <string name="text_home">Home Fragment</string>
+    <string name="text_notifications">Notifications Fragment</string>
+    <string name="text_search">Search Fragment</string>
+    <string name="new_frais">Nouveaux frais</string>
 </resources>
